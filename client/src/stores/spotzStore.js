@@ -1,0 +1,67 @@
+import { defineStore } from 'pinia';
+import { ref } from 'vue';
+
+export const useSpotzStore = defineStore('spotzStore', () => {
+  const data = ref([]); 
+  const getSpotz = async () => {
+    data.value =
+      [
+        {
+          pid: 1,
+          foto: 'https://example.com/foto1.jpg',
+          titel: 'Park am See',
+          beschreibung:
+            'Ein entspannter Ort mit Blick auf den See, perfekt zum Entspannen und Picknicken.',
+          rating: 4.5,
+          likes: 32,
+          added_by: 'Benutzer123',
+          gps: {
+            latitude: 52.52,
+            longitude: 13.405,
+          },
+        },
+        {
+          pid: 2,
+          foto: 'https://example.com/foto2.jpg',
+          titel: 'Dachterrassen-Bar',
+          beschreibung: 'Eine gemütliche Bar mit einer großartigen Aussicht von der Dachterrasse.',
+          rating: 4.8,
+          likes: 45,
+          added_by: 'User456',
+          gps: {
+            latitude: 40.7128,
+            longitude: -74.006,
+          },
+        },
+        {
+          pid: 3,
+          foto: 'https://example.com/foto3.jpg',
+          titel: 'Strandhütte',
+          beschreibung:
+            'Eine rustikale Hütte am Strand, perfekt für Lagerfeuer und gesellige Abende.',
+          rating: 4.2,
+          likes: 28,
+          added_by: 'ChillSpotLover',
+          gps: {
+            latitude: 34.0522,
+            longitude: -118.2437,
+          },
+        },
+        {
+          pid: 4,
+          foto: 'https://example.com/foto4.jpg',
+          titel: 'Stadtpark Oase',
+          beschreibung: 'Ein versteckter Teil des Stadtparks mit üppiger Natur und Ruhe.',
+          rating: 4.6,
+          likes: 37,
+          added_by: 'OutdoorFanatic',
+          gps: {
+            latitude: 51.5074,
+            longitude: -0.1278,
+          },
+        },
+      ];
+    };
+
+  return { data, getSpotz };
+});

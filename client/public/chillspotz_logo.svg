@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2480 2267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.14094,0,0,1.09653,-360.156,-103.333)">
+        <path d="M1402.63,228.935L1649.67,889.762L2449.14,889.762L1802.36,1298.17L2049.41,1959L1402.63,1550.59L755.849,1959L1002.9,1298.17L356.118,889.762L1155.58,889.762L1402.63,228.935Z" style="stroke:black;stroke-width:26.51px;"/>
+    </g>
+    <g transform="matrix(1.3769,0,0,1.40481,-564.02,-287.158)">
+        <ellipse cx="1310.32" cy="982.205" rx="557.567" ry="546.49" style="fill:rgb(0,189,37);stroke:black;stroke-width:12.19px;"/>
+    </g>
+    <g transform="matrix(1.0234,0,0,1.0234,-440.808,-111.705)">
+        <text x="870.908px" y="893.585px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:329.914px;">ChillSpotz</text>
+    </g>
+    <g transform="matrix(1.08759,0,0,1.05634,-136.738,-49.5107)">
+        <ellipse cx="1266.01" cy="1140.98" rx="505.872" ry="262.167" style="fill:rgb(235,235,235);stroke:black;stroke-width:34.44px;"/>
+    </g>
+    <g transform="matrix(1.05219,0,0,1.10728,-72.4924,-291.324)">
+        <path d="M1247.54,1063.44C1402.43,1063.44 1528.17,1170.99 1528.17,1303.45C1528.17,1435.92 1402.43,1543.47 1247.54,1543.47C1092.66,1543.47 966.913,1435.92 966.913,1303.45C966.913,1170.99 1092.66,1063.44 1247.54,1063.44ZM1247.54,1183.45C1324.98,1183.45 1387.86,1237.22 1387.86,1303.45C1387.86,1369.68 1324.98,1423.46 1247.54,1423.46C1170.1,1423.46 1107.23,1369.68 1107.23,1303.45C1107.23,1237.22 1170.1,1183.45 1247.54,1183.45Z" style="fill:rgb(55,45,228);stroke:black;stroke-width:27.46px;"/>
+    </g>
+    <g transform="matrix(0.763158,0,0,0.787879,428.984,-764.552)">
+        <path d="M1062.92,2281.96L1203.23,2525.67L922.603,2525.67L1062.92,2281.96Z" style="stroke:black;stroke-width:21.86px;"/>
+    </g>
+</svg>
